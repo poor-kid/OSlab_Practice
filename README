@@ -1,10 +1,10 @@
-#OSLab
+# OSLab
 
-##Operating Systems Laboratory assignments
+## Operating Systems Laboratory assignments
 Overview
 
 Assignments for Operating Systems Laboratory class at IIITA. Linux kernel driver development, QEMU development.
-**Lab1**
+** Lab1 **
 
 1.  Study of Unix/Linux general purpose utility command list :
 	man, who,cat,cd,  cp,  ps,  ls,  mv,rm,  mkdir,  rmdir,  echo,  more,  date,  time,  kill,  history,chmod, chown, finger, pwd, cal, logout, 		shutdown commands
