@@ -6,11 +6,12 @@ Assignments for Operating Systems Laboratory class at IIITA. Linux kernel driver
 ** Lab1 **
 
 1.  Study of Unix/Linux general purpose utility command list :
-	man, who,cat,cd,  cp,  ps,  ls,  mv,rm,  mkdir,  rmdir,  echo,  more,  date,  time,  kill,  history,chmod, chown, finger, pwd, cal, logout, 		shutdown commands
+	man, who,cat,cd,  cp,  ps,  ls,  mv,rm,  mkdir,  rmdir,  echo,  more,  date,  time,  kill,  history,chmod, chown, finger, pwd, cal, logout, 		
+	shutdown commands
 2.  Login to the system and do the following:
 	(a)  Use the appropriate command to determine your login shell
 	(b)  Use the/etc/passwdfile to verify the result of previous step
 	(c)  Use the who command and redirect the result to a file called myfile1.Use the more command to see the contents of myfile1.
-	(d)  Use the date and who commands in sequence (in one line) such that the output of date will display on the screen and the output of who 			will be redirected to a file called myfile2.  Use the more command to check the contents of myfile2
+	(d)  Use the date and who commands in sequence (in one line) such that the output of date will display on the screen and the output of who will be redirected to a file called myfile2.  Use the more command to check the contents of myfile2
 	(e)  Write a sed command that deletes the first character in each line in a file.
 
