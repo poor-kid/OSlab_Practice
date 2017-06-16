@@ -1,0 +1,6 @@
+yaar hiee this is good
+whatz so up
+wassup
+is this my name
+
+	// sed 's/\(^[a-z]*\)\( \)\([a-z]*\)/\3\2\1/' test
